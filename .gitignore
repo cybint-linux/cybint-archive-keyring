@@ -1,0 +1,13 @@
+debian/.debhelper
+debian/cybint-archive-keyring
+debian/debhelper-build-stamp
+debian/cybint-.*substvars
+debian/*.substvars
+debian/files
+__pycache__
+.directory
+.desktop
+.idea
+.vscode
+cybint-archive-keyring.gpg
+

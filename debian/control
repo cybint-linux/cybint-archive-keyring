@@ -1,0 +1,30 @@
+Source: cybint-archive-keyring
+Priority: important
+Section: misc
+Maintainer: CYBINT Developers <dev@cybint-linux.com>
+Uploaders: Tom Lee <tom@cybint.io>
+Build-Depends: debhelper-compat (= 13), gnupg
+Rules-Requires-Root: no
+Standards-Version: 4.5.1
+Vcs-Git: https://gitlab.com/cybint-linux/packages/cybint-archive-keyring.git
+Vcs-Browser: https://gitlab.com/cybint-linux/packages/cybint-archive-keyring
+
+Package: cybint-archive-keyring
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: GnuPG archive keys of the CYBINT archive
+ The CYBINT project digitally signs its Release files. This package
+ contains the archive keys used for that.
+
+Package: cybint-archive-keyring-udeb
+Package-Type: udeb
+Priority: optional
+Architecture: all
+Section: debian-installer
+Depends: ${misc:Depends}
+Recommends: gpgv-udeb
+Description: GnuPG keys of the CYBINT archive
+ The CYBINT project digitally signs its Release files. This package
+ contains the archive keys used for that, in a minimal form for use
+ in the installer.

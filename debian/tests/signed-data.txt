@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+This file is signed with CYBINT's key. Its purpose is
+to ensure that we can check its signature with the
+key provided in cybint-archive-keyring (thus ensuring
+that it has not expired yet).
+-----BEGIN PGP SIGNATURE-----
+
+hQIMA86hCeZhfxVPARAAjVuwJIBUt3gCY4nEH4qLSBsGRXCakTCP1fuMxkoWzCuu
+Y4myt8heyoph3xyFcaT2o8eMoqS7wf3XssQI5NPhxwVOnh5nXuQ9Txnx5bRtORO/
+FeCxQW2xg7dmuZnyZ6jkIoJ9bZw1DIkaEEIAiV3o/tkulJ7rtjJy9zVcdGCLjNki
+bUFsqxHbcpCdzOYcxJZM6OMnt+WnsemgS5kp6J2Ru1o1R0CSDxx+n7jk8MmqUS8y
+T9n5qT/zO1ZgoU/pQi4+xf95Ls2cFqv+ld+NFavCvxlhjdRNEkYnEUgkbXWhkdVL
+UbElrNre2tHbL2kIPwr4marhvGkZf9wJ0tvd9k9522gU2LFGbfc5nGzfhozDicCp
+WcyyquKsaYq6XAjP27jJWfEMexmUUcX8ARQSb9CnIal/XUkwg8h2Sgmq6rB3Siex
+qv76u6OiaJ0LraWfuJNSSmhQ5cK4M2jHDZFphHoV60/Ez0eNSCsiPYA/KPx96kfu
+qTgHJF/Lep6xK7Egq6o/n9pIjeaKMQ97La5jY7uuWtd37KX3ZYgZI0A4ZNcxDmPT
+QlbZ8Jtl8ilZJ6XsppDzn5lg55WQ4dFffRA6OVSIi2tTQ2IqNKuHRt1zyRAW1uiY
+CzqSuOz/j4t80DP1tp30q4A0TyOYusmEKuO+U2UhKf79HZyfGGkRfFyPEG025RTS
+6QE+AIIHlngnX64xqpBrE2wO60/0P61vuLiHkTAEoCVyt6FRSaMI75Np/vN4tsd7
+mc55eJVoJ7B9M/Mwt8t+uBqBSFht+0QMyiygSyYR8J5DvZKPC1C9gfAvwq0z3QaZ
+jfx+sFo7X9acoShjF7OxtHrhrpQ6sQSediKj37KOu702tegA960zSn8Wok8dqmEc
+1ugM86H/xUcyFSDuDKmW3UO8bTDmdBCL77aMkSTHlPA0J4UyFW+arKODLJqsI3dE
+WKOuAvZVc859B0tClxS8Z3OBd0Mn4EfKsg14seGWxX0sAaRKSdPuKnyp16TAtpTc
+aSYJaqrgkEU9knNJimzjien+MJp0kkzIZicT+7rkKuwVmSVtel8VLGrUWtqVUIZD
+ygSki5xf84a+2A1R/rXuQ5/+yvaLSACGLw2kZ8vBaqRuysOkWHyubJ1m4+0tV98D
+Kj4N3xoCR98/EACRAAtvNqeHcIThJkavWi6dQ/k2X3QL/6XbTdVEcmFMJcTr1JHo
+65flvU6lrSwZslcqIRk/pqsEt5PKa+ZrPxh+bOOaXt35LQ/0KpwtVLQx57xArw//
+3qxbZOuXm7Wm41zorxMd/pM9gMDE+dp2sf/DOpyi2YGQPV6ZfBqyzwfGfT4oeiix
+KmDXsoreYhVej7VyH+gPn6SzTwnoO1+ysbfR0mz1YXBKwIYynb1sMWfGa9Wgufvh
+VC/1flTg5d93OwvKf2zktlUZFn64M7pC4BWlbMU33DcjwjHzgsI+idBXTMVno6SA
+5UB58ua36Zbjho/H6TMScS1gJo3zUu1xaE/3cFQfEQnsPchWVpLqHEp/u8FHY7tO
+R1aUKM0idDWHyhui6htIe9Y3cKIJvKXxTmnN9FC6KboCqHIg3Z0ElmP9sA2+UoWT
+GPFpZkf+6LqG8Ng+TX0j0uwxhVCm14SIAr57KrSj6C+7VxEtXgLBU3NVKPdCnpQA
+SR5RWI/qrKXF1UgSBzoj0JX6foaFgLjN8oDe+NyTIbouwxII8/tbT5U9TqZgiWGG
+1ZtRReIL7vcyK09Cz0YO19RHqDC7CEEJLRrjPuf2gYWO2PrKMSJsYklRh3e/oO7Q
+QkpApk28crZzruh4/fZ6XXvG3ZGGH1nHag==
+=2SYU
+-----END PGP SIGNATURE-----

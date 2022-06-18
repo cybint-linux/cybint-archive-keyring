@@ -1,0 +1,13 @@
+Package: cybint-archive-keyring-udeb
+Source: cybint-archive-keyring
+Version: 1.0
+Architecture: all
+Maintainer: CYBINT Developers <dev@cybint-linux.com>
+Installed-Size: 8
+Recommends: gpgv-udeb
+Section: debian-installer
+Priority: optional
+Description: GnuPG keys of the CYBINT archive
+ The CYBINT project digitally signs its Release files. This package
+ contains the archive keys used for that, in a minimal form for use
+ in the installer.
